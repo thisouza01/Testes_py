@@ -1,5 +1,5 @@
 import pytest
-from validador import *
+from validador_dados import *
 
 # Parâmetros para testar função " nome "
 @pytest.mark.parametrize('nome, esperado', [
